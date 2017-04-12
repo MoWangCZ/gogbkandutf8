@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;goSkill&gt;">
+    <CLASSES>
+      <root url="file://E:/stServer/shentongServer/src/gopkg.in" />
+      <root url="file://E:/stServer/shentongServer/src/stjp360.com" />
+      <root url="file://E:/stServer/shentongServer/src/github.com" />
+      <root url="file://E:/stServer/shentongServer/src/golang.org" />
+      <root url="file://E:/stServer/shentongServer/src/iconv" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://E:/stServer/shentongServer/src/gopkg.in" />
+      <root url="file://E:/stServer/shentongServer/src/stjp360.com" />
+      <root url="file://E:/stServer/shentongServer/src/github.com" />
+      <root url="file://E:/stServer/shentongServer/src/golang.org" />
+      <root url="file://E:/stServer/shentongServer/src/iconv" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
